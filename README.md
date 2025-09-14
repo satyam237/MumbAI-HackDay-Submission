@@ -236,6 +236,8 @@ graph LR
 ## 🗺️ Roadmap
 
 ### Phase 2: Enhanced Validation
+- [ ] **Dynamic file upload system** (replace hardcoded inputs)
+- [ ] **External database integration** (move from local Data Store)
 - [ ] Multi-level approval workflows
 - [ ] Vendor 206AB status validation
 - [ ] PAN verification integration
@@ -243,6 +245,7 @@ graph LR
 
 ### Phase 3: ERP Integration
 - [ ] Direct ERP voucher creation
+- [ ] **Real database connectivity** (replace Make.com Data Store)
 - [ ] Webhook callback system
 - [ ] Email/Slack approval workflows
 - [ ] Real-time status updates
